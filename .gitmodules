@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "shinyML"]
+	path = shinyML
+	url = https://github.com/jeanbertinr/shinyml
+	shallow = true
+	registered = true
